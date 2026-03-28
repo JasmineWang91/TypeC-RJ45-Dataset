@@ -16,7 +16,7 @@ The dataset is used to evaluate the performance of the proposed **DynMIL-Lite** 
 The dataset contains two files:
 
 - **`Typec_data.npz`**: 6-DOF force-torque time series data collected during robotic assembly of USB Type-C connectors.
-- **`RJ45_Ethernet_dat.npz`**: 6-DOF force-torque time series data collected during robotic assembly of RJ45 Ethernet connectors.
+- **`RJ45_Ethernet_data.npz`**: 6-DOF force-torque time series data collected during robotic assembly of RJ45 Ethernet connectors.
 
 Each `.npz` file includes multiple assembly trials. For each trial, it records time-series data from a force-torque sensor capturing:
 
