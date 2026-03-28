@@ -1,6 +1,6 @@
 # TypeC-RJ45 Assembly Dataset
 
-This repository provides the **TypeC-RJ45 Assembly Dataset**, designed to support research in robotic connector assembly, particularly in detecting early mating success through 6-DOF tactile force signals.
+This repository provides the **TypeC-RJ45 Assembly Dataset**, designed to support research in robotic connector assembly through 6-DOF tactile force signals.
 
 ## 🔍 Overview
 
