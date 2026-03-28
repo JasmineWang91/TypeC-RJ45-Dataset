@@ -37,7 +37,3 @@ The experiments are carried out under controlled robotic manipulation conditions
 You can download the full dataset from Dropbox:
 
 🔗 [Download TypeC-RJ45 Dataset (Dropbox)](https://www.dropbox.com/scl/fo/gx7gefprtg79ge6q6jekx/AEhVqPxkwcmkBGSqrnh4BQw?rlkey=wq10q2un9cicv3v80n8y5dpcx&st=pb9cmc0a&dl=0)
-
-The dataset includes:
-- `Typec_data.npz`
-- `RJ45_Ethernet_dat.npz`
