@@ -6,7 +6,7 @@ This repository provides the **TypeC-RJ45 Assembly Dataset**, designed to suppor
 
 We design and conduct robotic assembly experiments using **USB Type-C** and **RJ45 Ethernet** connectors to simulate connector assembly processes commonly performed in industrial automation. These connectors differ significantly in their mechanical structures and insertion dynamics, making them suitable for evaluating model generalization across connector types.
 
-The dataset is used to evaluate the performance of the proposed **Dyn-TransMIL** model for early success detection in robotic connector assembly tasks.
+The dataset is used to evaluate the performance of the proposed **DynMIL-Lite** model for early success detection in robotic connector assembly tasks.
 
 ### Assembly Video
 - [Experimental Videos](https://www.dropbox.com/scl/fo/3q5uhdq1p4gby9xvyi2td/AEwmypNkR3_pncUiJnPhJe4?rlkey=5nxtxcyr7xsrehqy2u1l6wc33&st=677an3ob&dl=0)
